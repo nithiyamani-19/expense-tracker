@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Your personal data (keep your expenses private)
+expenses.json
+expenses.csv
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
